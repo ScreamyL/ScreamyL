@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Я начинающий Java automatization QA. Мой путь в it начался в конце 2023г. с курсов на YouTube и stepik.org, где я ознакомился с несколькими курсами по теории тестирования и computer science. После данных курсов был промежуток в пару месяцев, где я пробовал применять на практике полученные знания используя ресурсы по тестированию в открытом доступе, попробовал свои силы в data science, но больше всего меня зацепила атоматизация тестирования! С мая 2024 года я начал изучать Java на курсах JavaRush, параллельно смотря лекции по нему на YouTube. После чего успешно прошёл отбор на обучение в Школе Тестирования от IFellow на Курс автоматизированного тестирования. В настоящий момент мое обучение на курсе завершено!<br><br>- 🔭 Параллельно стараюсь проходить новые курсы и изучать новые инструменты/фреймворки.⚡</p>
+<p align="left">Я начинающий Java automatization QA. Мой путь в it начался в конце 2023г. с курсов на YouTube и stepik.org, где я ознакомился с несколькими курсами по теории тестирования и computer science. После данных курсов был промежуток в пару месяцев, где я пробовал применять на практике полученные знания используя ресурсы по тестированию в открытом доступе, попробовал свои силы в data science, но больше всего меня зацепила атоматизация тестирования! С мая 2024 года я начал изучать Java на курсах JavaRush, параллельно смотря лекции по нему на YouTube. После чего успешно прошёл отбор на обучение в Школе Тестирования от IFellow на Курс автоматизированного тестирования. В настоящий момент завершаю обучение на курсе!<br><br>- 🔭 Параллельно стараюсь проходить новые курсы и изучать новые инструменты/фреймворки.⚡</p>
 
 
 
@@ -40,7 +40,24 @@
 ###
 
 <div align="left">
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="github" height="40" /></a>  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" height="40" /></a> 
+  <a href="https://maven.apache.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" height="40" /></a> 
+<a href="https://wikipedia.org/wiki/CI/CD" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" height="40" /></a> 
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="selenium" width="40" height="40"/> </a>
+  <a href="https://selenide.org/" target="_blank"><img style="margin: 10px" src="https://selenide.org/images/selenide-logo-big.png" alt="selenide" height="40" /></a> 
+  <a href="https://junit.org/junit5/" target="_blank"><img style="margin: 10px" src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" height="40" /></a> 
+   <a href="https://cucumber.io/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png" alt="Cucumber" height="40" /></a> 
+     <a href="https://cucumber.io/docs/gherkin/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gherkin-Dark.svg" alt="gherkin" height="40" /></a>
+ <a href="https://wikipedia.org/wiki/REST" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" height="40" /></a> 
+  <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="40" /></a>  
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" height="40" /></a> 
+  <a href="https://allurereport.org/" target="_blank"><img style="margin: 10px" src="https://allurereport.org/svg/logo-report-sign.svg" alt="Allure" height="40" /></a> 
+</p>
 
 </div>
 
@@ -57,7 +74,7 @@
 ###
 
 <div align="center">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Screamy)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=ScreamyL&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ScreamyL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
